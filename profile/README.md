@@ -13,9 +13,9 @@ YouCan is a platform for creating and managing online stores, it helps launch an
 
 YouCan offers a variety of tools and resources for developers to build and enhance e-commerce solutions, including :
 
-- **YouCan UI**: Library of components to build intuitive interfaces.
+- **[YouCan UI](https://github.com/youcan-shop/youcan-ui)**: Library of components to build intuitive interfaces.
+- **[CLI](https://github.com/youcan-shop/cli)**: Command Line tool to simplify your development workflow on YouCan.
 - **Themes and Apps Templates**: Ready-to-use templates for quick app and theme development.
-- **CLI**: Command Line tool to simplify your development workflow.
 - **YouCan Pay SDK**: Packages for integrating [YouCan Pay](https://youcanpay.com/docs).
 - ...
   
